@@ -1,4 +1,3 @@
-![logo](https://github.com/sampannkanungo/sampannkanungo/blob/main/png_20230225_173106_0000.png)
 <h1 align="center">Hi 👋, I'm Sampann Kanungo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
