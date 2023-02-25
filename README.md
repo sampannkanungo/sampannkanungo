@@ -1,3 +1,4 @@
+![logo](https://github.com/sampannkanungo/sampannkanungo/blob/main/WhatsApp%20Image%202023-02-25%20at%204.58.26%20PM.jpeg)
 <h1 align="center">Hi 👋, I'm Sampann Kanungo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
